@@ -1,6 +1,7 @@
 # Student-Performance-Prediction-Using-Regression-and-Classification
 
-# Life Cycle of this Project:
+# Life Cycle of this Project:![Student performance prediction](https://github.com/user-attachments/assets/3c8d4012-5b1d-481f-9278-5f66b438d8aa)
+
 
 # Understanding the Problem Statement: 
 The problem statement is to determine how variables such as gender, race/ethnicity, parental level of education, lunch, and test preparation course affect student performance (test scores).
