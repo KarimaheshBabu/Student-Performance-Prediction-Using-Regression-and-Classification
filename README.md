@@ -16,7 +16,9 @@ Visualizations were created to identify trends and patterns that may be difficul
 # Data Pre-Processing: 
 The data was transformed to make it suitable for use with machine learning models. This involved techniques such as scaling, normalization, feature selection, or feature engineering.
 
-Model Training: Machine learning models were built using the pre-processed data. The data was split into training and test sets, and the training set was used to train the models.
+# Model Training:
+Machine learning models were built using the pre-processed data. The data was split into training and test sets, and the training set was used to train the models.
 
-Model Evaluation: The performance of the models was evaluated using various metrics such as Root Mean Squared Error, Mean Absolute Error, R2 Score, and accuracy. This helped to determine which models were performing best.
+# Model Evaluation: 
+The performance of the models was evaluated using various metrics such as Root Mean Squared Error, Mean Absolute Error, R2 Score, and accuracy. This helped to determine which models were performing best.
 Choosing the Best Model: Based on the evaluation results, the best-performing model was chosen for predicting student performance.
