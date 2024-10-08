@@ -2,7 +2,7 @@
 
 # Life Cycle of this Project:
 
-1) Understanding the Problem Statement: 
+# Understanding the Problem Statement: 
 The problem statement is to determine how variables such as gender, race/ethnicity, parental level of education, lunch, and test preparation course affect student performance (test scores).
 
 # Data Collection: Relevant data was gathered from Kaggle.
