@@ -1,7 +1,7 @@
 # Student-Performance-Prediction-Using-Regression-and-Classification
-Life Cycle of this Project:
+# Life Cycle of this Project:
 
-Understanding the Problem Statement: The problem statement is to determine how variables such as gender, race/ethnicity, parental level of education, lunch, and test preparation course affect student performance (test scores).
+# Understanding the Problem Statement: The problem statement is to determine how variables such as gender, race/ethnicity, parental level of education, lunch, and test preparation course affect student performance (test scores).
 
 Data Collection: Relevant data was gathered from Kaggle.
 Data Checks: A series of data checks were performed to ensure that the data was clean, complete, and in the correct format. This included checking for missing values, duplicate values, and outliers, as well as data types and the number of unique values in each column.
